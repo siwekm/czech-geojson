@@ -3,7 +3,10 @@
 Parsed data seperated to files by administrative units.
 
 <b>Note: Due to file size, data for "obce" has been limited to 1000 coordinates.</b>
-<br><br>
+<br>
+If you wish to get the data without the limited number of coordinates, use [geojson-parser](https://github.com/siwekm/geojson-parser)<br>
+
+
 
 Okresy example:
 
@@ -11,7 +14,6 @@ Okresy example:
 
 <b>DATA SOURCE:</b>
 
-<a href="https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025712%2F12a8a57d34a0a7837ed16ee099f7e3f8
-">INSPIRE - administrativní jednotky</a> 
+<a href="https://services.cuzk.gov.cz/gml/inspire/au/epsg-4258/">INSPIRE - Územní správní jednotky</a> 
 
 
